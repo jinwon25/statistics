@@ -117,9 +117,9 @@ $$f(t) = \lambda e^{-\lambda t}$$
 - $\lambda$: 특정 시공간 안에서의 평균 사건 발생 횟수
 
 ---
-지수분포의 (소요시간) 평균: $\mu = \frac{1}{\lambda}$<br>
-지수분포의 (소요시간) 분산: $\sigma^2=\frac{1}{\lambda^2}$<br>
-지수분포의 (소요시간) 표준편차: $\sigma = \sqrt{\frac{1}{\lambda^2}} $
+- 지수분포의 (소요시간) 평균: $\mu = \frac{1}{\lambda}$
+- 지수분포의 (소요시간) 분산: $\sigma^2=\frac{1}{\lambda^2}$
+- 지수분포의 (소요시간) 표준편차: $\sigma = \sqrt{\frac{1}{\lambda^2}} $
 
 ---
 1. t 시점 이전에 발생할 확률($1-e^{-\lambda t}$)
