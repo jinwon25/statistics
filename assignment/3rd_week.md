@@ -358,19 +358,19 @@ DM(Data Mart): 사용자의 목적에 맞도록 가공된 일부의 데이터가
 ### 1-1. 
 ![TABLE](https://github.com/ejejbb/Template/raw/main/File/2-1.PNG)
 ```
-여기에 답을 작성해주세요!
+LEFT JOIN
 ```
 
 ### 1-2. 
 ![TABLE](https://github.com/ejejbb/Template/raw/main/File/2-3.PNG)
 ```
-여기에 답을 작성해주세요!
+INNER JOIN
 ```
 
 ### 1-3. 
 ![TABLE](https://github.com/ejejbb/Template/raw/main/File/2-2.PNG)
 ```
-여기에 답을 작성해주세요!
+RIGHT JOIN
 ```
 
 ### 🎉 수고하셨습니다.
