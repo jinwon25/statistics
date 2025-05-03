@@ -262,6 +262,8 @@ $$P(X_1, X_2) = \frac{\mathrm{COV}(X_1, X_2)}{\sqrt{\mathrm{Var}(X_1) \cdot \mat
 - 버블 차트를 이용하면 세 가지 요소의 상관관계를 표현할 수 있음
 - 버블차트를 해석할 때는 원의 지름이 아닌 면적을 통해 크기를 판단하도록 주의해야 함
 
+![스크린샷](../image/screenshot45.png)
+
 ### 10.6.1 관계 시각화 실습
 
 **버블블 차트 그리기**
@@ -290,7 +292,7 @@ $$P(X_1, X_2) = \frac{\mathrm{COV}(X_1, X_2)}{\sqrt{\mathrm{Var}(X_1) \cdot \mat
 
 - 거시적에서 미시적으로 진행되는 분석 방향과 같이 스토리라인을 잡고 시각화를 적용하는 것이 좋음
 
-![스크린샷](../image/screenshot45.png)
+![스크린샷](../image/screenshot46.png)
 
 ### 10.7.1 공간 시각화 실습
 
@@ -309,11 +311,11 @@ $$P(X_1, X_2) = \frac{\mathrm{COV}(X_1, X_2)}{\sqrt{\mathrm{Var}(X_1) \cdot \mat
 
 - 박스 플롯은 하나의 그림으로 양적 척도 데이터의 분포 및 편향성, 평균과 중앙값 등 다양한 수치를 보기 쉽게 정리해 줌
 
-![스크린샷](../image/screenshot46.png)
+![스크린샷](../image/screenshot47.png)
 
 - 박스 플롯을 해석할 때는 항상 데이터 분포도를 함께 떠올리는 습관이 필요함
 
-![스크린샷](../image/screenshot47.png)
+![스크린샷](../image/screenshot48.png)
 
 
 # 확인 문제
